@@ -1,0 +1,41 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+}
+.navbar {
+  background-color: #003f5c !important;
+}
+.navbar-brand {
+  color: #fff !important;
+  font-weight: bold;
+}
+.nav-link {
+  color: #fff !important;
+}
+.content {
+  padding-top: 80px;
+}
+.footer {
+  background-color: #0a1f29 !important;
+  text-align: center;
+  padding: 10;
+  color: #fff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+button {
+  background-color: #003f5c;
+  box-shadow: none;
+  color: #fff;
+  padding: 1;
+  margin-right: 15px;
+  border-color: #fff;
+}
+button:hover {
+  background-color: tomato;
+}
