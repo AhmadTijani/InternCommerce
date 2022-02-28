@@ -26,3 +26,11 @@
   color: aliceblue;
   font-weight: bold !important;
 }
+.productinfo-img {
+  height: 50vh;
+}
+.total-amount {
+  background-color: #b2babe;
+  padding: 10px;
+  border-radius: 50px;
+}
